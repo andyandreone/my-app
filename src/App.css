@@ -1,6 +1,10 @@
 #root{
-  background-color: black;
+
   text-align: center;
+}
+
+.navbar{
+  background-color: black;
 }
 .nav-item{
   display: inline-block;
@@ -11,4 +15,9 @@
 .nav-link{
   text-decoration: none;
   color: white;
+}
+
+ion-icon{
+  color: white;
+  font-size: 25px;
 }
