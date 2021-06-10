@@ -1,5 +1,4 @@
 #root{
-
   text-align: center;
 }
 
@@ -20,4 +19,16 @@
 ion-icon{
   color: white;
   font-size: 25px;
+}
+
+.itemCount{
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  border: 1px solid gray;
+}
+
+.onAdd{
+  height: 30px;
+
 }
