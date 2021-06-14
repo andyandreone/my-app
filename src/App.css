@@ -23,12 +23,18 @@ ion-icon{
 
 .itemCount{
   display: inline-block;
-  width: 300px;
-  height: 100px;
   border: 1px solid gray;
 }
 
 .onAdd{
   height: 30px;
 
+}
+
+.card{
+  border:1px solid gray;
+  margin: 20px;  
+  padding: 5px;
+  width: 10rem;
+  display: inline-block;
 }
